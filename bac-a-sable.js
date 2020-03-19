@@ -1,6 +1,7 @@
 /* Mini projet : valider un rendez-vous */
 // je veux créer un sommaire et le push sur github
 // je recrée une modif pour fusionner ensuite
+// je recrée une modif pour fusionner ensuite 3
 
 // Exemple 1 : pour une durée de RDV de 15 minutes
 
