@@ -1,4 +1,5 @@
 /* Mini projet : valider un rendez-vous */
+// je veux créer un sommaire et le push sur github
 
 // Exemple 1 : pour une durée de RDV de 15 minutes
 
